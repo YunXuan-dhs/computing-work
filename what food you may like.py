@@ -8,7 +8,7 @@ savoury1 = input("I enjoy savoury/ salty food like french fries.")
 
 sweet1 = input("I'll go crazy withou having sugary stuff like sweets.")
 
-healthy1 = input("I am a health enthusiast and dont eat junk food.")
+healthy1 = input("I am a health enthusiast and prefer not to eat junk food.")
 
 sour2 = input("I like chewy food as it keeps me awake throughout the day.")
 
